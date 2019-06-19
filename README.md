@@ -1,5 +1,9 @@
 Hello!
 
+If you're not sure how to do these, [click this link](https://github.com/HenryFBP/tfsa-coding-questions/archive/master.zip) to download the questions and then [visit this link](https://stackoverflow.com/questions/1522564/how-do-i-run-a-python-program) to see how to run a Python program.
+
+You'll need Python 3, which you can [download here](https://www.python.org/downloads/).
+
 ## Intro
 
 Within this repo there are some coding challenges to do to get a feel for how you code, document, and research.
