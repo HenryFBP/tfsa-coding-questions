@@ -30,7 +30,15 @@ Here is an example:
 
 And here is what the solution could look like:
 
-
+	def divideem(x, y):
+		"""
+		This function divides two numbers.
+		:param x: Number 1.
+		:param y: Number 2.
+		:return: Number 1 divided by Number 2.
+		:example: divideem(1,2) -> 0.5
+		"""
+		return x/y
 
 ## Submitting
 
