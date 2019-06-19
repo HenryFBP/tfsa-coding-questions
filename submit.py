@@ -1,3 +1,5 @@
+# Shamelessly stolen from https://stackoverflow.com/a/1735277
+
 import glob
 import unittest
 
